@@ -1,3 +1,7 @@
 body{
     background-color: dodgerblue;
+    color: lightblue;
 }
+        header {
+            border: solid 2px royalblue;
+        }
