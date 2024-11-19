@@ -3,6 +3,6 @@ body{
     color: rgb(65, 152, 223);
 }
 
-        header {
-            border: solid 2px rgb(28, 106, 158);
-        }
+header {
+        border-bottom: solid 2px rgb(28, 106, 158);
+}    
